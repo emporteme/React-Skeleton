@@ -1,5 +1,5 @@
 # React Router
 npm i react-router-dom <br>
-<Router> 
+<Router
 The code...
-</Router>
+Router>
