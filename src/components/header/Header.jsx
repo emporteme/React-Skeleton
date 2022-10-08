@@ -7,8 +7,9 @@ export const Header = () => {
   return(
     <header>
         <Link to="/">Home</Link>
-        <Link to="/posts">Blog</Link>
+        <Link to="/blog">Blog</Link>
         <Link to="/about">About</Link>
+        <Link to="/plan">Plan</Link>
       </header>
   )
 };

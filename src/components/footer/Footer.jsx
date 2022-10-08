@@ -3,6 +3,12 @@ import './Footer.css'
 
 
 export const Footer = () => {
-  return <div>Footer</div>;
+  return(
+    <div className="">
+      <footer>
+        footer
+      </footer>
+    </div>
+  )
 };
 
