@@ -19,7 +19,6 @@ function App() {
           <Route path="/plan" element={<PlanPage />} />
           <Route path="*" element={<NotFoundPage />} />
         </Routes>
-        <Footer/>
       </Router>
     </>
   );

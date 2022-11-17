@@ -1,0 +1,31 @@
+.main {
+    margin: 0 auto;
+    line-height: 61px;
+    text-align: center;
+}
+
+.main .map .map_main{
+    height: 500px;
+    margin-top: -100px;
+}
+
+.main h1 {
+    font-weight: 700;
+    font-size: 50px;
+}
+.after{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    margin-top: -30px;
+}
+.after p {
+    color: #0157FF;
+    font-weight: 600;
+    font-size: 25px;
+}
+.map_icon{
+    width: 40px;
+    height: 40px;
+}
